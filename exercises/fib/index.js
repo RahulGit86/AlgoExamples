@@ -22,4 +22,5 @@ function fib(n) {
 	return c
 }
 
+
 module.exports = fib;
